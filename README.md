@@ -6,5 +6,4 @@
 * cwTex Font (https://github.com/l10n-tw/cwtex-q-fonts)
 * 花園フォント（花園明朝）(http://fonts.jp/hanazono/)
 * 瀨戶フォント (https://osdn.net/projects/setofont/releases/)
-* 瀨戶フォント (https://osdn.net/projects/setofont/releases/)
 * 源柔ゴシック (http://jikasei.me/font/genjyuu/)
